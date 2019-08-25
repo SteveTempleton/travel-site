@@ -3,7 +3,7 @@
   color: white;
   text-decoration: none;
   padding: .75rem 1.2rem;
-  diplay: inline-block;
+  display: inline-block;
 
   &--orange {
     background-color: $mainOrange;
